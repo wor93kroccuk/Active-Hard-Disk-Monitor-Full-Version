@@ -241,4 +241,4 @@ This repository serves as the official landing page for Active Hard Disk Monitor
 **Get the most recent version of Active Hard Disk Monitor today!**
 
 ---
-**Last updated:** 2026-09-15 21:56:03 UTC
+**Last updated:** 2026-09-16 00:02:45 UTC
